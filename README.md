@@ -1,8 +1,9 @@
-# Proposal
+---
+title: "A highly interactive approach to teaching programming skills with Software & Data Carpentry"
+author: "Jez Cope (University Library), …"
+---
 
-- Title: A highly interactive approach to teaching programming skills with Software & Data Carpentry
-- Format: Workshop (1 h 30 m)
-- Presenters: Jez Cope (University Library), …
+# Proposal (90 minute workshop)
 
 ## Session description (no more than 250 words)
 
