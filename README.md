@@ -32,14 +32,26 @@ Both of these initiatives are built around a similar model:
 [SWC]: http://software-carpentry.org/
 [DC]: http://datacarpentry.org/
 
+**TODO:** complete this section
+
 
 ## How do you think others will benefit from the session?
 
-
+The Carpentries are built on modern, research-backed psychology and pedagogy,
+and are thus quite different from programming courses
+run along more traditional lines.
+Participants will benefit from learning about
+the theory behind the material and instructional style
+as well as experiencing it for themselves.
 
 ## How will you incorporate the student perspective in this session?
 
+Participants will be placed directly in the students' shoes,
+having the opportunity to experience
+the Carpentry style of teaching as learners.
 
+**Please note:**
+All participants will need access to a laptop during the session.
 
 ## Plan for the session (workshop only)
 
@@ -49,3 +61,4 @@ Both of these initiatives are built around a similar model:
    - Instructor development
 2. Taster session (60 minutes)
    - Participants will be led through a short part of one of the Data Carpentry lessons
+   - *Need to decide which lesson & which episode*
