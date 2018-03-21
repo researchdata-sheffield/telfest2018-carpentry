@@ -1,0 +1,2 @@
+- Which lesson & episode should we choose?
+- How will we eliminate set-up time? Maybe use VMs or CoCalc notebooks?
