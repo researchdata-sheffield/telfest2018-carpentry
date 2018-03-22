@@ -1,5 +1,5 @@
 ---
-title: "A highly interactive approach to teaching programming skills with Software & Data Carpentry"
+title: "A highly interactive approach to teaching programming and data analysis with Software & Data Carpentry"
 author: "Jez Cope (University Library), …"
 ---
 
@@ -7,16 +7,12 @@ author: "Jez Cope (University Library), …"
 
 ## Session description (no more than 250 words)
 
-[Software Carpentry (SWC)][SWC] is an established initiative
+[Software Carpentry (SWC)][SWC] is an international initiative
 providing training to researchers
 to improve their ability to create good quality software for their research.
-[Data Carpentry (DC)][DC] is a related project
-which provides training to help researchers move beyond simple analysis in Excel.
-DC is often seen as aiming to teach non-programmers to code,
-and DC as aiming to teach self-taught programmers to code better
-with an implied progression from one to the other.
-However, the two are independent and complementary,
-with DC going into more depth on data management techniques than SWC.
+[Data Carpentry (DC)][DC] provides training to help researchers
+improve the robustness and reproducibility
+of their analysis workflows.
 
 Both of these initiatives are built around a similar model:
 
@@ -32,8 +28,9 @@ Both of these initiatives are built around a similar model:
 [SWC]: http://software-carpentry.org/
 [DC]: http://datacarpentry.org/
 
-**TODO:** complete this section
-
+This workshop will explore the advantages of this model
+and provide participants with an opportunity
+to experience first-hand a small slice of a Data Carpentry workshop.
 
 ## How do you think others will benefit from the session?
 
