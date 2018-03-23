@@ -1,6 +1,8 @@
 ---
 title: "A highly interactive approach to teaching programming and data analysis with Software & Data Carpentry"
-author: "Jez Cope (University Library), …"
+author: 
+- Jez Cope (University Library)
+- Will Furnass (Research Software Engineering group)
 ---
 
 # Proposal (90 minute workshop)
@@ -18,7 +20,7 @@ Both of these initiatives are built around a similar model:
 
 - High quality workshop materials developed by the community
   and released under a Creative Commons license
-- Two-day "bootcamp" workshop format,
+- Two-day interactive "bootcamp" workshop format,
   with sessions lead by instructors and assisted by helpers
   from the research discipline in question
 - Certification programme for instructors grounded in evidence-backed pedagogy
@@ -52,10 +54,10 @@ All participants will need access to a laptop during the session.
 
 ## Plan for the session (workshop only)
 
-1. Overview of teaching methods used in the Carpentries (30 minutes)
+1. Overview of teaching methods used in the Carpentries (20 minutes)
    - History: background & development of the Carpentry community
    - Pedagogy: live coding; graded examples
    - Instructor development
 2. Taster session (60 minutes)
-   - Participants will be led through a short part of one of the Data Carpentry lessons
-   - *Need to decide which lesson & which episode*
+   - Participants will be led through a short part of one of the Data Carpentry lessons: an introduction to the R programming language, using ecology as a context.
+3. Discussion (10 minutes)
